@@ -33,8 +33,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://my-github-stats-dun.vercel.app/api?username=dndjd321&show_icons=true&theme=tokyonight" alt="dndjd321's GitHub stats" width="48%"/>
-  <img src="https://my-github-stats-dun.vercel.app/api/top-langs/?username=dndjd321&layout=compact&theme=tokyonight" alt="Top Langs" width="48%"/>
+  <img src="https://my-github-stats-dun.vercel.app/api?username=dndjd321&show_icons=true&theme=tokyonight&v=1" alt="dndjd321's GitHub stats" width="48%"/>
+  <img src="https://my-github-stats-dun.vercel.app/api/top-langs/?username=dndjd321&layout=compact&theme=tokyonight&v=1" alt="Top Langs" width="48%"/>
 </div>
 
 <div align="right">
