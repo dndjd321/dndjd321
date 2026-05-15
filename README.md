@@ -1,16 +1,42 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=50&fontAlignY=38)
 
-<!--
-**dndjd321/dndjd321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
+안녕하세요! **C++**과 **C#**을 주력으로 다루며, 게임 개발부터 웹 자동화, 주식 데이터 분석까지 다양한 분야에 도전하는 개발자입니다. B2B 소프트웨어 제작과 효율적인 시스템 구축에 관심이 많습니다.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ML.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Main Projects
+
+### 🎮 Game Development
+- **C++ Text RPG** : 객체 지향 기반의 캐릭터/몬스터 클래스 구조와 **영구 아이템 강화 시스템**을 구현한 텍스트 RPG 게임.
+- **AvoidTexture** : C++ 기반 콘솔 장애물 회피 아케이드 게임 프로젝트.
+
+### 📈 Finance & Data
+- **Real-time Stock Dashboard** : Next.js와 TypeScript, Yahoo Finance API를 활용한 실시간 주식/코인 대시보드 (**막대그래프** 기반 차트 구현).
+- **Stock Forecaster** : C# ML.NET 머신러닝을 활용한 주가 등락 예측기.
+
+### ⚙️ Automation & Tools
+- **Naver Cafe B2B Automation** : **Playwright**를 활용하여 봇 탐지를 우회하도록 설계된 B2B 마케팅 자동화 프로그램.
+- **WebSafeSpec** : 복잡한 플랫폼별 디자인 규격을 픽셀 단위로 정확하게 변환해 주는 웹 서비스.
+- **Real Estate Manager** : 하드코딩을 배제하고 JSON 데이터 읽기를 기반으로 구동되는 C# 부동산 카테고리 관리 시스템.
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dndjd321&show_icons=true&theme=tokyonight" alt="dndjd321's GitHub stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dndjd321&layout=compact&theme=tokyonight" alt="Top Langs" width="48%"/>
+</p>
+
+<p align="right">
+  <img src="https://projectpokemon.org/images/normal-sprite/gengar.gif" alt="Gengar"/>
+</p>
