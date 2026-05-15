@@ -19,6 +19,7 @@
 ## 🚀 Main Projects
 
 ### 🎮 Game Development
+- **pokemon_rl** : 포켓몬 데이터를 활용한 강화학습(Reinforcement Learning) 알고리즘 연구 또는 포켓몬 시스템을 구현한 프로젝트입니다.
 - **C++ Text RPG** : 객체 지향 기반의 캐릭터/몬스터 클래스 구조와 **영구 아이템 강화 시스템**을 구현한 텍스트 RPG 게임.
 - **AvoidTexture** : C++ 기반 콘솔 장애물 회피 아케이드 게임 프로젝트.
 
@@ -27,9 +28,8 @@
 - **Stock Forecaster** : C# ML.NET 머신러닝을 활용한 주가 등락 예측기.
 
 ### ⚙️ Automation & Tools
-- **Naver Cafe B2B Automation** : **Playwright**를 활용하여 봇 탐지를 우회하도록 설계된 B2B 마케팅 자동화 프로그램.
+- **RoutineAutomator** : **C++** 기반으로 제작된 루틴 자동화 유틸리티로, 사용자가 사전에 등록한 여러 프로그램들을 일괄적으로 자동 실행하여 빠른 작업 환경 세팅을 돕습니다.
 - **WebSafeSpec** : 복잡한 플랫폼별 디자인 규격을 픽셀 단위로 정확하게 변환해 주는 웹 서비스.
-- **Real Estate Manager** : 하드코딩을 배제하고 JSON 데이터 읽기를 기반으로 구동되는 C# 부동산 카테고리 관리 시스템.
 
 ## 📊 GitHub Stats
 <div align="center">
