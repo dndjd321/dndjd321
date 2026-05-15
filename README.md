@@ -32,11 +32,14 @@
 - **Real Estate Manager** : 하드코딩을 배제하고 JSON 데이터 읽기를 기반으로 구동되는 C# 부동산 카테고리 관리 시스템.
 
 ## 📊 GitHub Stats
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dndjd321&show_icons=true&theme=tokyonight" alt="dndjd321's GitHub stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dndjd321&layout=compact&theme=tokyonight" alt="Top Langs" width="48%"/>
-</p>
+</div>
 
-<p align="right">
-  <img src="https://projectpokemon.org/images/normal-sprite/gengar.gif" alt="Gengar"/>
-</p>
+<div align="right">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/gengar.gif" alt="Gengar"/>
+  <img src="https://play.pokemonshowdown.com/sprites/ani/turtwig.gif" alt="Turtwig"/>
+  <img src="https://play.pokemonshowdown.com/sprites/ani/quagsire.gif" alt="Quagsire"/>
+  <img src="https://play.pokemonshowdown.com/sprites/ani/clodsire.gif" alt="Clodsire"/>
+</div>
