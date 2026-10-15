@@ -46,12 +46,6 @@
 - **[RoutineAutomator](https://github.com/dndjd321/RoutineAutomator)** : **C++** 기반으로 제작된 루틴 자동화 유틸리티로, 사용자가 사전에 등록한 여러 프로그램들을 일괄적으로 자동 실행하여 빠른 작업 환경 세팅을 돕습니다.
 - **WebSafeSpec** : 복잡한 플랫폼별 디자인 규격을 픽셀 단위로 정확하게 변환해 주는 웹 서비스.
 
-### 📚 Study & Practice
-- **[IoT-Cpp_2026](https://github.com/dndjd321/IoT-Cpp_2026)** : C++ 학습 저장소.
-- **[IoT-Algorithm-2026](https://github.com/dndjd321/IoT-Algorithm-2026)** : 자료구조·알고리즘 학습 저장소 (C).
-- **[IoT-Basic-Programming-2026](https://github.com/dndjd321/IoT-Basic-Programming-2026)** : 기초 프로그래밍 언어 학습 저장소 (C).
-- **[Blazor](https://github.com/dndjd321/Blazor)** : C# Blazor 웹 프레임워크 실습.
-
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://my-github-stats-dun.vercel.app/api?username=dndjd321&show_icons=true&theme=tokyonight&v=1" alt="dndjd321's GitHub stats" width="48%"/>
