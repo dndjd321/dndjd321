@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Agile%20Evolution%20in%20Progress&fontSize=50&fontAlignY=38)
 
 ## 🧑‍💻 About Me
-안녕하세요! **C++**과 **C#**을 주력으로 다루며, 게임 개발부터 웹 자동화, 주식 데이터 분석까지 다양한 분야에 도전하는 개발자입니다. B2B 소프트웨어 제작과 효율적인 시스템 구축에 관심이 많습니다.
+안녕하세요! <b>C++</b>과 <b>C#</b>을 주력으로 다루며, 게임 개발부터 웹 자동화, 주식 데이터 분석까지 다양한 분야에 도전하는 개발자입니다. B2B 소프트웨어 제작과 효율적인 시스템 구축에 관심이 많습니다.
 
 현재는 **IoT 개발자 과정**에서 C/C++, 자료구조·알고리즘, 임베디드 기초를 다지고 있고, 개인 프로젝트로는 브라우저에서 바로 실행되는 **2D 액션 RPG**를 만들고 있습니다.
 
