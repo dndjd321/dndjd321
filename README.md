@@ -1,9 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Agile%20Evolution%20in%20Progress&fontSize=50&fontAlignY=38)
 
 ## 🧑‍💻 About Me
-안녕하세요! <b>C++</b>과 <b>C#</b>을 주력으로 다루며, 게임 개발부터 웹 자동화, 주식 데이터 분석까지 다양한 분야에 도전하는 개발자입니다. B2B 소프트웨어 제작과 효율적인 시스템 구축에 관심이 많습니다.
+안녕하세요! 현업에서 **SW 개발** 일을 하고 있는 개발자입니다. <b>C++</b>과 <b>C#</b>을 주력으로 다루며, B2B 소프트웨어 제작과 효율적인 시스템 구축에 관심이 많습니다.
 
-현재는 **IoT 개발자 과정**에서 C/C++, 자료구조·알고리즘, 임베디드 기초를 다지고 있고, 개인 프로젝트로는 브라우저에서 바로 실행되는 **2D 액션 RPG**를 만들고 있습니다.
+퇴근 후 개인 프로젝트로는 주로 **바이브 코딩**으로 게임을 만들고 있습니다. 설치 없이 브라우저에서 바로 플레이할 수 있는 웹 게임 위주이고, 장르는 이것저것 가리지 않고 도전 중입니다.
+
+- 🗡️ **횡스크롤 액션 RPG** : 직업 전직, 보스 패턴, 장비 강화까지 갖춘 2D 액션 RPG
+- 🎲 **1인용 테이블탑 RPG** : AI 게임 마스터가 진행을 맡는 주사위 기반 TRPG
+- 🐾 **몬스터 수집·육성 RPG** : 200종이 넘는 도감과 맵·데이터 제작 도구까지 직접 만든 수집형 RPG
+- 🏰 **모바일 방치형 RPG** : 몬스터 보호소를 운영하며 성장시키는 가벼운 방치형 게임
 
 ## 🛠️ Tech Stack
 <p>
@@ -42,7 +47,7 @@
 - **WebSafeSpec** : 복잡한 플랫폼별 디자인 규격을 픽셀 단위로 정확하게 변환해 주는 웹 서비스.
 
 ### 📚 Study & Practice
-- **[IoT-Cpp_2026](https://github.com/dndjd321/IoT-Cpp_2026)** : IoT 개발자 과정 C++ 학습 저장소.
+- **[IoT-Cpp_2026](https://github.com/dndjd321/IoT-Cpp_2026)** : C++ 학습 저장소.
 - **[IoT-Algorithm-2026](https://github.com/dndjd321/IoT-Algorithm-2026)** : 자료구조·알고리즘 학습 저장소 (C).
 - **[IoT-Basic-Programming-2026](https://github.com/dndjd321/IoT-Basic-Programming-2026)** : 기초 프로그래밍 언어 학습 저장소 (C).
 - **[Blazor](https://github.com/dndjd321/Blazor)** : C# Blazor 웹 프레임워크 실습.
